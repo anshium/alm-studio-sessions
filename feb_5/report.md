@@ -2,6 +2,10 @@
 **Date:** February 5, 2026
 **Subject:** Transitioning from Baseline to Advanced Retrieval using Cross-Encoder Re-ranking
 
+**GitHub Repo:** `https://github.com/anshium/alm-studio-sessions`
+
+**Note:** The API key was compromised and is no longer valid now.
+
 ---
 
 ## 1. Bi-Encoders vs. Cross-Encoders: A Conceptual Comparison
